@@ -54,7 +54,7 @@ li {
 
 #blog-content #mc_embed_signup {
     margin: auto;
-    width: 65%;
+    width: 85%;
 }
 
 /*form css*/
@@ -62,7 +62,7 @@ li {
     color: #EE5A24;
     margin-top: 10%;
     margin-bottom: 5%;
-    border: 1px solid #EE5A24;
+    /* border: 1px solid #EE5A24; */
     border-radius: 5px;
     font-size: 16px;
 }
